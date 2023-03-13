@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Text.Encodings.Web;
 using Microsoft.AspNetCore.Mvc;
 using RecruitApp.Models;
 
@@ -28,4 +29,13 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+    /*
+    public IActionResult Welcome(string name, int numTimes = 1)
+    {
+        ViewData["Message"] = "Hello" + name;
+        ViewData["NumTimes"] = numTimes;
+        return View();
+    }
+    */
 }

@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "Job List";
+}
+
+<h2> Job List </h2>
+
+<p> Search result </p>
+
+<p> @ViewData["keywords"] </p>
+
+
+<div>
+    <form>
+        <label> What </label>
+        <input />
+        <label> Industry </label>
+        <input />
+        <label> Where </label>
+        <input />
+        <button> Search </button>
+    </form>
+
+</div>
+<div>
+    <table class="table">
+       
+        <thead>
+            <tr>
+                <th> Title </th>
+                <th> Company </th>
+                <th> Salary </th>
+                <th> Description </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> Assistant </td>
+                <td> PMP </td>
+                <td> 55000 </td>
+                <td>
+                    Duties will include, but are not limited to:
+                    Answering phone enquiries
+                    Taking service bookings
+                    Customer service at reception
+                    Assisting the sales team
+                </td>
+                <td>
+                    <a> Save </a>
+                    <a> Apply </a>
+                    <a> Ignore </a>
+                </td>
+            </tr>
+            <tr>
+                <td> Receptionist </td>
+                <td> ANZ </td>
+                <td> 58000 </td>
+                <td>
+                    Answering phone enquiries
+                    Taking service bookings
+                    Customer service at reception
+                </td>
+                <td>
+                    <a> Save </a>
+                    <a> Apply </a>
+                    <a> Ignore </a>
+                </td>
+            </tr>
+            <tr>
+                <td> Graduate Developer </td>
+                <td> REA </td>
+                <td> 75000 </td>
+                <td>
+                    Be embedded in agile teams where you will be exposed to all aspects of our business and brands.
+                    Gain exposure to AWS and cloud technology.
+                    Learn about new and emerging practices like event-driven architecture and micro frontends.
+                    Work on a range of projects from new web apps, mobile apps and products within core teams like Data Services and Devops.
+                </td>
+                <td>
+                    <a> Save </a>
+                    <a> Apply </a>
+                    <a> Ignore </a>
+                    <!--
+                        <a asp-action="Edit" asp-route-id="item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="item.Id">Delete</a>
+                    -->
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -9,37 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RecruitApp
 build_property.RootNamespace = RecruitApp
-build_property.ProjectDir = d:\Documents\Study\FullStack\ASPNET\RecruitApp\
+build_property.ProjectDir = D:\Documents\Study\FullStack\ASPNET\RecruitApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Documents\Study\FullStack\ASPNET\RecruitApp
+build_property.MSBuildProjectDirectory = D:\Documents\Study\FullStack\ASPNET\RecruitApp
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Home/Index.cshtml]
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Home/Privacy.cshtml]
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Shared/Error.cshtml]
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/JobList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iTGlzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/JobList/search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iTGlzdFxzZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Profiles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/_ViewImports.cshtml]
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/_ViewStart.cshtml]
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Shared/_Layout.cshtml]
+[D:/Documents/Study/FullStack/ASPNET/RecruitApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8k1df766ld
