@@ -23,6 +23,8 @@ The project requries .NET Core 7.0, SQL Server.
 
 ### Online Demo
 
+Online demo can be accessed at https://xxx.xxx.xxx
+
 ## Contributing
 The project is freee and open-source. To contribute, please
 - Star this project on GitHub;
